@@ -1,16 +1,10 @@
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ## Estatísticas GitHub
-div>
+<div>
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-
-###
-
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"height="30" alt="Angular logo" />
