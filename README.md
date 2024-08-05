@@ -1,11 +1,5 @@
 <h2 align="left">https://github.com/biofoxbio/biofoxbio</h2>
 
-## Estatísticas GitHub
-<div>
-<a href="https://github.com/biofoxbio/biofoxbio">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 <picture>
  
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
